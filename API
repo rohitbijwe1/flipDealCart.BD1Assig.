@@ -1,0 +1,6 @@
+/cart-total?newItemPrice=1200&cartTotal=0          //1200
+/membership-discount?cartTotal=3600&isMember=true //3240
+/calculate-tax?cartTotal=3600                      //180
+/estimate-delivery?shippingMethod=Express&distance=600 //6
+/shipping-cost?weight=2&distance=600               //120
+/loyalty-points?purchaseAmount=3600                //7200
